@@ -1,0 +1,32 @@
+table,th,td{
+    border: 1px solid black;
+}
+
+table{
+    width: 40%;
+    height: 200px;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: greenyellow;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+td{
+    background-color: darkcyan;
+    font-weight: bold;
+    text-align: center;
+}
+
+.titulo{
+    font-style: italic;
+}
+
+#disciplina{
+    color:darkslategrey;
+}
